@@ -165,3 +165,5 @@ HashTable.prototype.retrieveAll = function() {
 };
  
 var myHT = new HashTable(30);
+
+console.log(myHT);
